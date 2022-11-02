@@ -16,7 +16,9 @@ What we do in this colab:
 * **Image-2-Image** generation by fixing the original latents and listening to a prompt
 
 
-Note: If viewing the notebook here in github fails, change the domain after clicking it from "github.com/..." to "githubtocolab.com/...", enjoy!
+**Note**: 
+- If viewing the notebook here in github fails, change the domain after clicking it from "github.com/..." to "githubtocolab.com/...", enjoy!
+- The excel file contains my research results about the generative models, and specifically diffusion models like the Stable Diffusion, their relationship, difference, and online resources.
 
 ---------------------------------------------------------------------------------------------
 ![download (4)](https://user-images.githubusercontent.com/75330691/199470322-27e86cb1-d189-4ad6-84de-b77168b22702.png)
